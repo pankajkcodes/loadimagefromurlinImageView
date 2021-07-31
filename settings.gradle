@@ -1,0 +1,2 @@
+rootProject.name = "load image from url in ImageView"
+include ':app'
